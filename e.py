@@ -26,11 +26,8 @@ e_e(100, 12)
 def debug(msg: str) -> None:
     print(msg)
 
-<<<<<<< HEAD
 print("testing")
-=======
 
 
 print("shinputesting")
 import numpy as np
->>>>>>> e12a8559d233e0831e75f87b6e502bf733f78406
