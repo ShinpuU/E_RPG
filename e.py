@@ -28,4 +28,3 @@ def debug(msg: str) -> None:
     print(msg)
 
 
-print("ez")
