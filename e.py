@@ -26,4 +26,5 @@ e_e(100, 12)
 
 
 
-
+print("shinputesting")
+import numpy as np
